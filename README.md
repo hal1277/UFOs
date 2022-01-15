@@ -6,17 +6,20 @@ The project was to help Diana build an interactive webpage on UFO sightings to c
 ## Results 
 Here is an image of the webiste design.  It started with a storyboard to properly visualize the desired layout. The HTML file was then created to realize that vision which was laid out.  Formatting created a visualing appealing dark them for the page and a background image in the jumbotron re-inforces the space theme of the site.  
 
-insert PNG
+![Website Overview](https://github.com/hal1277/UFOs/blob/8e8f000ff103f49d6c041ada89d010b3948ef185/Images/Websiteoverview.png)
+https://github.com/hal1277/UFOs/blob/8e8f000ff103f49d6c041ada89d010b3948ef185/Images/Websiteoverview.png
 
 After updating the intial code the table can now be filtered on date, city, state, country, and shape - all 5 or just 1 or anything in between.  
 
 Perhaps you want to see only the triangle shaped sighting on Jan. 1, 2010?
 
-insert PNG
+![Filter on Shape and Date](https://github.com/hal1277/UFOs/blob/8e8f000ff103f49d6c041ada89d010b3948ef185/Images/filterbydateshape.png)
+https://github.com/hal1277/UFOs/blob/8e8f000ff103f49d6c041ada89d010b3948ef185/Images/filterbydateshape.png
 
 Or maybe it's only the light sightings in the state of california that interest you?
 
-insert PNG
+![Filter on Shape and State](https://github.com/hal1277/UFOs/blob/8e8f000ff103f49d6c041ada89d010b3948ef185/Images/filterbystateshape.png)
+https://github.com/hal1277/UFOs/blob/8e8f000ff103f49d6c041ada89d010b3948ef185/Images/filterbystateshape.png
 
 The filter possibilites are immense.  You simply type into the field the indicated type of criteria (i.e. state in the state field or shape in the shape field) and the table will automatically filter to just those results meeting all the selected filters.  You can also remove filter critera by simply removing what you have typed in any given field.  
 
